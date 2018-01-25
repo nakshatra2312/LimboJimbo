@@ -1,0 +1,48 @@
+
+ghoulsRight.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+MOnsterpng/2
+  rotate: false
+  xy: 1, 1
+  size: 917, 917
+  orig: 917, 917
+  offset: 0, 0
+  index: -1
+
+ghoulsRight2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+MOnsterpng/3
+  rotate: false
+  xy: 1, 1
+  size: 917, 917
+  orig: 917, 917
+  offset: 0, 0
+  index: -1
+
+ghoulsRight3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+MOnsterpng/4
+  rotate: false
+  xy: 1, 1
+  size: 917, 917
+  orig: 917, 917
+  offset: 0, 0
+  index: -1
+
+ghoulsRight4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+MOnsterpng/1
+  rotate: false
+  xy: 1, 1
+  size: 919, 915
+  orig: 919, 915
+  offset: 0, 0
+  index: -1
